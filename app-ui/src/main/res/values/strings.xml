@@ -360,7 +360,7 @@
     <string name="smart_adaptive_cadence">Smart Adaptive Cadence</string>
     <string name="custom_fixed_cadence">Custom Fixed Cadence</string>
     <string name="set_cadence">Set Cadence</string>
-    <string name="smart_cadence_hint">Cadence dynamically matches speed (90~200 SPM)</string>
+    <string name="smart_cadence_hint">Cadence dynamically matches speed (95~200 SPM)</string>
     <string name="stop_at_destination_title">Stop at Destination</string>
     <string name="stop_at_destination_desc_on">Stop simulation and stay at destination upon arrival</string>
     <string name="stop_at_destination_desc_off">Auto loop upon arrival (forward for closed loop, return for open route)</string>

@@ -224,7 +224,7 @@
     <string name="smart_adaptive_cadence">تردد خطوات تكيفي ذكي</string>
     <string name="custom_fixed_cadence">تردد خطوات ثابت مخصص</string>
     <string name="set_cadence">تعيين تردد الخطوات</string>
-    <string name="smart_cadence_hint">يتطابق معدل الخطوات ديناميكيًا مع السرعة (90~200 خطوة/د)</string>
+    <string name="smart_cadence_hint">يتطابق معدل الخطوات ديناميكيًا مع السرعة (95~200 خطوة/د)</string>
     <string name="stop_at_destination_title">التوقف عند الوصول</string>
     <string name="stop_at_destination_desc_on">إيقاف المحاكاة والبقاء في الوجهة عند الوصول</string>
     <string name="stop_at_destination_desc_off">حلقة تلقائية عند الوصول (للأمام للمسار المغلق، وعكسي للمفتوح)</string>

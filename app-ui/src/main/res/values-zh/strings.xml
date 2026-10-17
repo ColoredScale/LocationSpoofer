@@ -359,7 +359,7 @@
     <string name="smart_adaptive_cadence">智能自适应步频</string>
     <string name="custom_fixed_cadence">自定义固定步频</string>
     <string name="set_cadence">设定步频</string>
-    <string name="smart_cadence_hint">步频将根据移动速度实时动态智能匹配（90~200 SPM）</string>
+    <string name="smart_cadence_hint">步频将根据移动速度实时动态智能匹配（95~200 SPM）</string>
     <string name="stop_at_destination_title">到达终点后停下</string>
     <string name="stop_at_destination_desc_on">到达终点后停止模拟并停留在终点</string>
     <string name="stop_at_destination_desc_off">到达终点后自动循环巡航（闭环正向，开放折返）</string>
