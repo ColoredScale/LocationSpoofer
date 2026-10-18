@@ -13,7 +13,7 @@ body:
     attributes:
       label: LocationSpoofer Version / Commit Hash
       description: What version or git commit of LocationSpoofer are you using?
-      placeholder: "e.g. v1.2.0 or commit abc1234"
+      placeholder: "e.g. v3.0.19 or commit abc1234"
     validations:
       required: true
 
@@ -23,6 +23,7 @@ body:
       label: Android Version
       description: What Android OS version is running on your device?
       options:
+        - "Android 16 (API 36)"
         - "Android 15 (API 35)"
         - "Android 14 (API 34)"
         - "Android 13 (API 33)"
